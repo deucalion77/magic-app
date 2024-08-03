@@ -1,0 +1,2 @@
+# magic-app
+multifunction application
